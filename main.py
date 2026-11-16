@@ -1,4 +1,3 @@
-"""Command-line version from Project 3; the Project 3A web app uses app.py."""
 import api
 import charts
 import inputs
